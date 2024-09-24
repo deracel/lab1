@@ -13,6 +13,7 @@ int main(){
                 printf("Неправильный формат ввода данных\n");
 	}
                 printf("\n");
+		printf("\n");
         return 0;
 }
 
